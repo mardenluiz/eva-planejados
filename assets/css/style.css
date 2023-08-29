@@ -803,17 +803,12 @@ footer h6 {
   }
 
   .box-container-text {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding: 2rem 1rem;
     width: 100%;
   }
 
   .section-about .section-text h1 {
     padding-top: 3rem;
-  }
-
-  .section-about .section-text p {
-    text-align: center;
   }
 
   .image-working img {
@@ -913,7 +908,7 @@ footer h6 {
   .carousel .selfie img , .carousel .gts img {
     min-height: 400px;
   }
-
+3
   .social-footer {
     margin-top: 1rem;
   }
@@ -938,5 +933,6 @@ footer h6 {
   .carousel-control-prev, .carousel-control-next {
     display: none;
   }
+
 
 }
